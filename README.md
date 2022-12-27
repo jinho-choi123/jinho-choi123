@@ -4,11 +4,11 @@
 
 </center>
 
-<center>
+<div align="center">
 
 [![ball's GitLab stats](https://github-readme-stats.vercel.app/api?count_private=true&username=jinho-choi123&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</div>
 <br>
 
 ##  <center>🏀 Language and Stack 🏀</center>
