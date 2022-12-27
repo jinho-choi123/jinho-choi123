@@ -11,13 +11,13 @@
 </div>
 <br>
 
-##  <center>🏀 Language and Stack 🏀</center>
+##  <div align="center">🏀 Language and Stack 🏀</div>
 <br>
-<center>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinho-choi123&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
